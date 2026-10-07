@@ -5,7 +5,7 @@
 
 ## 👇 미리보기 👀
 
-- https://app-cubicsteak.netlify.app/masonry-ui/  
+- https://app-cubitsnake.netlify.app/masonry-ui/  
 
 ## 👇 레퍼런스 ✨
 

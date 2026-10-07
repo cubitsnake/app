@@ -2,22 +2,22 @@
 
 ## 👇 미리보기 👀
 
-- https://app-cubicsteak.netlify.app/www/
-- https://app-cubicsteak.netlify.app/www/index.html
-- https://app-cubicsteak.netlify.app/www/login.html
-- https://app-cubicsteak.netlify.app/www/admin.html
-- https://app-cubicsteak.netlify.app/www/theme.html
+- https://app-cubitsnake.netlify.app/www/
+- https://app-cubitsnake.netlify.app/www/index.html
+- https://app-cubitsnake.netlify.app/www/login.html
+- https://app-cubitsnake.netlify.app/www/admin.html
+- https://app-cubitsnake.netlify.app/www/theme.html
 
 ## 👇 레퍼런스 ✨
 
-- https://cdn.jsdelivr.net/gh/cubicsteak/app/www/theme.js
-- https://cdn.jsdelivr.net/gh/cubicsteak/app/www/theme.css
+- https://cdn.jsdelivr.net/gh/cubitsnake/app/www/theme.js
+- https://cdn.jsdelivr.net/gh/cubitsnake/app/www/theme.css
 
 ### ⚡ CDN
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/cubicsteak/app/www/theme.css">
-<script src="https://cdn.jsdelivr.net/gh/cubicsteak/app/www/theme.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/cubitsnake/app/www/theme.css">
+<script src="https://cdn.jsdelivr.net/gh/cubitsnake/app/www/theme.js"></script>
 ```
 
 ### 🔖 Theme Select
